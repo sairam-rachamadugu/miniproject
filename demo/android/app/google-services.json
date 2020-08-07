@@ -1,0 +1,40 @@
+{
+  "project_info": {
+    "project_number": "585409206215",
+    "firebase_url": "https://bribery-13c66.firebaseio.com",
+    "project_id": "bribery-13c66",
+    "storage_bucket": "bribery-13c66.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:585409206215:android:326de8806b76324c132be2",
+        "android_client_info": {
+          "package_name": "com.example.demo"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "585409206215-hsgv0mui8fmh3494f378hht7p9hmubou.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAVM6gcbVF7wa-zu0avq-jUTrM4ZYqwTBI"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "585409206215-hsgv0mui8fmh3494f378hht7p9hmubou.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
